@@ -9,7 +9,7 @@ My strong motivation and love for learning have equipped me with a robust unders
 
 In this repository, you can see my projects as a Data Analyst.
 
-Here you can find my CV.
+Here you can find my [CV](https://github.com/danisan918/portfolio/blob/main/CV%20DATA%20ANALYST.pdf.)
 
 Thank you for stopping by.
 
