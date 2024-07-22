@@ -18,8 +18,7 @@ Thank you for stopping by.
 + Projects
   - Phyton
   - SQL
-  - Excel
-  - Power BI
+  - Data Visualization and Dashboards
 + Education
 + Certifications
 + Contact
@@ -61,4 +60,27 @@ Thank you for stopping by.
 
 **Code:** [Chicago City Dataset](https://github.com/danisan918/SQL/blob/main/Chicago%20City%20data)
 
+### Data Visualization and Dashboards
+* ***Analyzing Demand in Programming Skills***
 
+**Description:** Presents the findings from an extensive data collection and analysis project aimed at understanding the current and future requirements for IT skills, identifying the programming languages, database skills, and integrated development environments (IDEs) that are most sought-after in the industry.
+
+**Code:** [Trends in Programming Skills](https://github.com/danisan918/Dashboards/blob/main/Trends%20Programming%20Skills..pdf)
+
+## Education
+Moscow State University of Civil Engineering, Moscow, Russia: Msc. Civil Engineering, Sep. 2017 - Jun 2019
+
+University of Ibagué, Ibagué, Colombia: Bachelor's degree, Civil Engineering (Honorous Degree), Feb. 2008 - Nov. 2012
+
+## Certificates
+
++ [IBM Data Analyst Professional Certificate (Coursera - IBM)](https://www.credly.com/badges/b0bf1fe2-8cf6-4801-8fef-8cdde085ec30/public_url)
+  - Excel for Data Analysis
+  - Data Visualization and Dashboards with Excel, Cognos and Looker Studio
+  - Phyton for Data Science, Ai and Development
+  - Databases and SQL for Data Science
++ Power BI (SENA - Colombia)
+
+## Contact
+LinkedIn: [@danisan918](https://www.linkedin.com/in/danisan918/)
+Email: danisan0918@gmail.com
