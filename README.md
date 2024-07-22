@@ -26,9 +26,15 @@ Thank you for stopping by.
 
 ## Projects
 ### Phyton
-**Financial Data Analysis for Investment Firm**
-**Code:**
-**Description:** Project for a new startup investment firm that helps customers invest their money in stocks. 
- The goal is to extract financial data like historical share price and quarterly revenue reportings from various sources using Python libraries and webscraping on popular stocks. 
- After collecting this data you will visualize it in a dashboard to identify patterns or trends. The stocks we will work with are Tesla, Amazon, AMD, and GameStop.
+***Extracting Data Stock Data***
+
+**Description:** Extract financial data like historical share price and quarterly revenue reportings from various sources using Python libraries and webscraping on popular stocks. 
+
+**Code:** [Extracting Stock Data Using a Python Library (yfinance)](https://github.com/danisan918/PhytonProjects/blob/main/Extracting%20Stock%20Data%20Using%20a%20Python%20Library.ipynb)
+
+[Extracting Stock Data Using Web Scraping](https://github.com/danisan918/PhytonProjects/blob/main/Extracting%20Stock%20Data%20Using%20Web%20Scraping.ipynb)
+
+[Extracting and Visualizing Stock Data](https://github.com/danisan918/PhytonProjects/blob/main/Extracting%20and%20Visualizing%20Stock%20Data.ipynb)
+
+**Libraries:** yfinance, Pandas, Matplotlib, BeautifulSoup
 
